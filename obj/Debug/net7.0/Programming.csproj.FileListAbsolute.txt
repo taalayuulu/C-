@@ -1,0 +1,15 @@
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.csproj.AssemblyReference.cache
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.AssemblyInfoInputs.cache
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.AssemblyInfo.cs
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.csproj.CoreCompileInputs.cache
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\bin\Debug\net7.0\Programming.exe
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\bin\Debug\net7.0\Programming.deps.json
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\bin\Debug\net7.0\Programming.runtimeconfig.json
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\bin\Debug\net7.0\Programming.dll
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\bin\Debug\net7.0\Programming.pdb
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.dll
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\refint\Programming.dll
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.pdb
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\Programming.genruntimeconfig.cache
+C:\Users\kanat.taalai\OneDrive - University of Central Asia\Personal Files\Geek\Programming\obj\Debug\net7.0\ref\Programming.dll
